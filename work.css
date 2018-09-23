@@ -1,0 +1,120 @@
+@media screen and (max-width:700px) {
+	.row, .navbar {
+		flex-direction: column;
+	}
+}
+* {
+	box-sizing: border-box;
+}
+# body {
+	margin: auto;
+	width: 100%;
+	background-color: grey;
+	margin: 0;
+	}
+.navbar  {
+	display:flex;
+	background-color: #333;
+}
+.navbar a {
+	color: white;
+	text-align: center;
+	padding: 2px 22px;
+	text-decoration: none;
+}
+.navbar a:hover {
+	background-color: #555;
+	color: white;
+}
+.row {
+	display: flex;
+	display: -webkit-flex;
+	}
+div.background {
+	background: url("http://angeoudemongif.a.n.pic.centerblog.net/00bf3414.gif");
+	border: 2px solid black;
+	}
+div.transbox {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	}
+
+header {
+	background: grey;
+	color: black;
+	text-align: center;
+	padding: 60px;
+}
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+img:hover {
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+.coloum.middel
+{
+	
+	display: flex;
+			column-count: 3;
+			justify-content: center;
+			background-color: #f1f1f1;
+			padding: 10px;
+			flex: space-around;
+
+}
+#grad1 {
+			height: 150px;
+			width: 150px;
+			background: radial-gradient(circle, red, yellow,green);
+			text-align: center;
+			display: flex;
+			flex: space-around;
+			}
+			#grad2 {
+			height: 150px;
+			width: 150px;
+			background: radial-gradient(circle, blue, pink,violet);
+			text-align: center;
+			}
+			#grad3 {
+				height: 150px;
+			width: 150px;
+			background: radial-gradient(circle, green, violet, yellow);
+			text-align: center;
+			}
+		.p {
+			background-image: url("http://img56.laughinggif.com/pic/HTTP3d3dy5naWZzdG9wLmNvbS9pbWFnZXMvYmFja2dyb3VuZHMvY29sb3JyaXBwbGU0LmdpZgloglog.gif"/);
+			color: white;
+			margin: auto;
+			width: 50%;
+			position: relative;
+	justify-content: center;
+	text-align: center;
+		}
+		.column.side {
+			flex: 30%;
+			background-color: #f1f1f1;
+			padding: 20px;
+		}
+		.column.middle {
+			display: flex;
+			column-count: 3;
+			justify-content: center;
+			background-color: #f1f1f1;
+			padding: 10px;
+		}
+footer {
+	background: pink;
+	color: white;
+	height: 200px;
+	padding-bottom: 0px;
+	text-align: center;
+	}
+
+
