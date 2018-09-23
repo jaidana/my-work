@@ -33,7 +33,7 @@ une page avec html et css
 			<div class="column side"></div>
 			<div class="column middle">
 	<img src="https://static-wp.lonewolfmag.com/business-woman.jpg" >
-	<h3>Bonjour a tous</h3><br><br>
+	<h3>Bonjour à tous</h3><br><br>
 		<section>
 		<article>
 	<p><i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i><br><br>   
