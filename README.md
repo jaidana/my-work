@@ -37,7 +37,7 @@ une page avec html et css
 		<section>
 		<article>
 	<p><i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i><br><br>   
-					Dans cette passage je vais parler de mes compétences, j'ai mon prémiere experience avec le code était en 2001 en inde aprés ça le language de code à bien avacer mais moi jen'ai pas suivi d'évolution mais grace à formation de MISSCODE j'arrive a mettre en jours mes connaissances en plus de ca le stage dans leboncoin m'appris comment un startup avec 7 salarié était grandi en court terme en devenu une groupe en achatent  Younited Credit - Kudoz - Agriaffaires - MachineryZone - leDénicheur - AVendreALouer avec 700 salarié et envisager denvenir une marque avec 1000 salarié<br><br>
+					Dans cette passage je vais parler de mes compétences, j'ai mon prémiere experience avec le code était en 2001 en inde aprés ça le language de code à bien avacer mais moi jen'ai pas suivi d'évolution mais grace à formation de MISSCODE j'arrive a mettre en jours mes connaissances en plus de ca le stage dans leboncoin m'appris comment un startup avec 7 salarié entrane de grandir en court terme en devenu une groupe en achetent  Younited Credit - Kudoz - Agriaffaires - MachineryZone - leDénicheur - AVendreALouer avec 700 salarié et envisager denvenir une marque avec 1000 salarié<br><br>
 					<i class="fa fa-quote-right fa-3x fa-pull-right fa-border" aria-hidden="true"></i><br><br>
 				</p>
 				</article>
