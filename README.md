@@ -18,7 +18,7 @@ une page avec html et css
 	<div class="background">
 	<div class="transbox">
 	<h2>JAYAKUMAR Dana</h2>
-	<h4>Developpeuse Web</h4>
+	<h4>Développeuse Web JAVA</h4>
 </div>
 </div>
 </section>
